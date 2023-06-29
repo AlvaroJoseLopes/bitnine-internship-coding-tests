@@ -41,7 +41,7 @@ make run
 
 For the expression `fib(5*4-10+6)` the corresponding binary expression tree would be:
 
-```python
+```
           fib
           / \
          -  NULL

@@ -11,7 +11,7 @@ The `Node` struct will be used to implement a binary expression tree. This struc
 
 In the binary expression tree, each internal node corresponds to the operator and each leaf node corresponds to the operand value. For example, the proposed expression `fib(5*4-10+6)` has this binary expression tree:
 
-```c
+```
           fib
           / \
          -  NULL
