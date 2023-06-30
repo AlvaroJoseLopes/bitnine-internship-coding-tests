@@ -1,8 +1,7 @@
 # Bitnine Internship - Coding tests
+This zip contains my solution for the coding tests proposed by Apache AGE Internship Program (Brazil).
 
-This repo contains my solution for the coding tests proposed by Apache AGE Internship Program (Brazil).
-The questions are available in this [pdf](Bitnine_Apache_AGE_2023_Internship_Program_Brazil.pdf).
-
+You can also check the [Github Repository](https://github.com/AlvaroJoseLopes/bitnine-internship-coding-tests).
 
 # Solutions summary 
 
@@ -32,8 +31,6 @@ make
 ```bash
 make run
 ```
-
-The makefile for each soltution also has directives to clean the folder (remove binary code) with `make clean` and `make valgrind` to report memory leak using valgrind.
 
 ## Question 1
 
